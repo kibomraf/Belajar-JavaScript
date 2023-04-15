@@ -65,3 +65,5 @@ const q = Symbol("id")
 const r = Symbol("id")
 console.log(q==r);
 console.log(typeof(q),typeof(r));
+let nama = "Muhamad Rizki"
+console.log(`Hallo Nama saya ${nama}`)
