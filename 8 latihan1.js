@@ -50,3 +50,41 @@ for (let soal6 = 2;soal6<=100;soal6++){
         console.log(`prima : ${soal6}`)
     }
 }
+console.log("\nSoal 7:\nBuatlah program yang meminta pengguna untuk memasukkan sebuah kata atau kalimat, lalu menampilkan jumlah huruf vokal dan konsonan dalam kata atau kalimat tersebut.")
+let soal7 = "Latihan soal ke tuju"
+let vokal = 0
+let konsonan = 0
+for (let a =0;a<soal7.length;a++){
+    let kata = soal7[a].toLowerCase()
+    if (kata === "a" || kata === "i" || kata === "u" || kata === "e" || kata === "o"){
+        vokal++
+
+    }else if (kata >= "a"&&kata<="z") {
+        konsonan++
+    }
+}
+console.log(`Kata "${soal7}" jumlah vokal ${vokal}, jumlah konsonan ${konsonan}`)
+console.log("\nsSoal 8:\nBuatlah program yang meminta pengguna untuk memasukkan sebuah bilangan bulat, lalu menampilkan hasil faktorial dari bilangan tersebut.")
+let faktorial = 1
+let soal8 = 10
+for(let a = 1;a<=soal8;a++){
+    faktorial *= a
+}
+console.log(faktorial)
+console.log("\nSoal 9:\nBuatlah program yang meminta pengguna untuk memasukkan sebuah kata atau kalimat, lalu menampilkan kata atau kalimat tersebut dibalik.")
+let katakata = "susu murni nasional"
+let hasil =""
+for(let x = katakata.length - 1;x>=0;x--){
+ hasil += katakata[x]
+}
+console.log(hasil)
+console.log("\nSoal 10:\nBuat program fibnacci")
+let a = 0
+let b = 1
+let hasil10 = 0
+for(let z = 1;z<=10;z++){
+    hasil10 = a + b
+    a = b
+    b = hasil10
+}
+console.log(hasil10)
