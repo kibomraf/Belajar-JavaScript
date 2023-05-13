@@ -11,7 +11,7 @@ let sayGreeting = greeting(user)
 console.log(sayGreeting)
 //default parameter
 function multiply(a,b){
-    let result;
+    let result = 0;
     result = a ** b;
     console.log(`${a}^${b} = ${result}`);
 }

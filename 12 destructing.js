@@ -16,7 +16,7 @@ let fullname = "bokir subokir";
 let age = 28;
 console.log("sebelum destructin assigment",fullname,age);
 
-    ({ fullname,age }=human);
+({ fullname,age }=human);
 
 console.log("seletah destructing assigment : ",fullname,age);
 //assigning with different local variables

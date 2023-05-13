@@ -1,0 +1,44 @@
+/*
+    Buatlah sebuah function yang menerima dua parameter bilangan bulat, dan mengembalikan hasil penjumlahan kedua bilangan tersebut.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan nilai rata-rata dari angka-angka tersebut.
+    Buatlah sebuah function yang menerima sebuah array kata-kata, dan mengembalikan jumlah kata yang terdapat di dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan angka terbesar dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan jumlah karakter dalam string tersebut.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan nilai median dari angka-angka tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan string tersebut dengan urutan karakter di dalamnya dibalik.
+    Buatlah sebuah function yang menerima sebuah array kata-kata, dan mengembalikan array baru yang berisi kata-kata yang lebih panjang dari 3 karakter.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan nilai terkecil dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan string tersebut dengan setiap kata di dalamnya dimulai dengan huruf kapital.
+    Buatlah sebuah function yang menerima sebuah array kata-kata, dan mengembalikan array baru yang berisi kata-kata yang terdiri dari huruf-huruf kecil saja.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan true jika string tersebut adalah palindrome (dapat dibaca sama dari depan maupun dari belakang), atau false jika tidak.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan array baru yang berisi angka-angka yang unik (tidak ada duplikat).
+    Buatlah sebuah function yang menerima sebuah array kata-kata, dan mengembalikan kata pertama dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan jumlah angka genap dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan string tersebut dengan setiap huruf di dalamnya diganti dengan huruf setelahnya dalam abjad.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan array baru yang berisi angka-angka yang lebih besar dari rata-rata nilai angka-angka tersebut.
+    Buatlah sebuah function yang menerima sebuah array kata-kata, dan mengembalikan jumlah kata yang terdiri dari dua kata atau lebih.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan jumlah kata dalam string tersebut.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan nilai terbesar kedua dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan true jika string tersebut mengandung angka, atau false jika tidak.
+    Buatlah sebuah function yang menerima sebuah array kata-kata, dan mengembalikan array baru yang berisi kata-kata yang terdiri dari huruf-huruf besar saja.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan array baru yang berisi angka-angka yang ganjil saja.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan true jika string tersebut merupakan anagram dari string yang lain, atau false jika tidak.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan nilai rata-rata dari angka-angka tersebut, tetapi tidak termasuk nilai terkecil dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan string tersebut dengan setiap huruf di dalamnya diganti dengan huruf sebelumnya dalam abjad.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan array baru yang berisi angka-angka yang lebih kecil dari rata-rata nilai angka-angka tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan string tersebut dengan setiap kata di dalamnya diulang sebanyak dua kali.
+    Buatlah sebuah function yang menerima sebuah array kata-kata, dan mengembalikan array baru yang berisi kata-kata yang lebih pendek dari 5 karakter.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan nilai terbesar ketiga dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan jumlah kata yang mengandung huruf "a" di dalamnya.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan array baru yang berisi angka-angka yang lebih besar dari 10.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan true jika string tersebut merupakan pangram (mengandung semua huruf abjad), atau false jika tidak.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan nilai tengah dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan jumlah kata yang mengandung huruf vokal di dalamnya.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan nilai terbesar yang berbeda dengan nilai terbesar dalam array tersebut.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan true jika string tersebut mengandung hanya angka, atau false jika tidak.
+    Buatlah sebuah function yang menerima sebuah array kata-kata, dan mengembalikan array baru yang berisi kata-kata yang tidak mengandung huruf vokal.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan array baru yang berisi angka-angka yang lebih kecil dari 5.
+    Buatlah sebuah function yang menerima sebuah string, dan mengembalikan true jika string tersebut terdiri dari karakter yang sama saja, atau false jika tidak.
+    Buatlah sebuah function yang menerima sebuah array kata-kata, dan mengembalikan array baru yang berisi kata-kata yang terdiri dari huruf-huruf vokal saja.
+    Buatlah sebuah function yang menerima sebuah array angka, dan mengembalikan nilai terkecil kedua dalam array tersebut.
+*/

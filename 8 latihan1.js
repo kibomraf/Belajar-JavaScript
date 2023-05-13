@@ -22,7 +22,7 @@ if (index%2==1){
 } else {
     console.log(`angka ${index} adalah genap`)
 }
-console.log("\nSoal 4:\nBuatlah program yang meminta pengguna untuk memasukkan sebuah bilangan bulat, lalu menampilkan apakah bilangan tersebut genap atau ganjil.")
+console.log("\nSoal 4:\nBuatlah program yang meminta pengguna untuk memasukkan sebuah bilangan bulat, lalu menampilkan apakah bilangan tersebut positif atau negatif.")
 let indek = -10
 if (indek < 0){
     console.log(`Ankag ${indek} adalah negatif`)
@@ -86,5 +86,7 @@ for(let z = 1;z<=10;z++){
     hasil10 = a + b
     a = b
     b = hasil10
+    console.log("Hasil sementara : ",hasil10);
+    console.log("z=",z)
 }
 console.log(hasil10)
